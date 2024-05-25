@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364061060821",
+    "project_id": "email-attachment-b3504",
+    "storage_bucket": "email-attachment-b3504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364061060821:android:1cede8b89811aa4a337c5c",
+        "android_client_info": {
+          "package_name": "com.example.emailattachment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLaMtKERhBdzXfB9KOIoi0ZI6rztfZ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
